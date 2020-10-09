@@ -1,5 +1,11 @@
 # simple-timer-bookmarklet
 
+## Demo
+
+![Timer bookmarklet demo](/timer_demo.gif "Timer bookmarklet demo")
+
+## Add the bookmarklet to your browser
+
 1. Create a new bookmark (best if it's on your bookmark toolbar).
 2. Set the "location" of the bookmark to the following text (copy, paste)
 `
